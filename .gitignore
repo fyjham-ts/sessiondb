@@ -1,4 +1,5 @@
 node_modules
 .env
 /generated/prisma
+/prisma/mydb.db
 dist
