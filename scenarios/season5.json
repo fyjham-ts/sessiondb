@@ -1,0 +1,22 @@
+[
+    {"season":5,"scenario":1,"subscenario":0,"name":"Intro Year of Unfettered Exploration","evergreen":true,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":5,"scenario":2,"subscenario":0,"name":"The Blackwood Lost","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":5,"scenario":3,"subscenario":0,"name":"Heidmarch Heist","evergreen":false,"multitable":false,"minLevel":5,"maxLevel":8,"scenarioType": "Scenario" },
+    {"season":5,"scenario":4,"subscenario":0,"name":"Equal Exchanges - Necessary Introductions","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":5,"scenario":5,"subscenario":0,"name":"The Island Of The Vibrant Dead","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":5,"scenario":6,"subscenario":0,"name":"Ukuja The First Wall","evergreen":false,"multitable":false,"minLevel":7,"maxLevel":10,"scenarioType": "Scenario" },
+    {"season":5,"scenario":7,"subscenario":0,"name":"Sewer Dragon Crisis","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":5,"scenario":8,"subscenario":0,"name":"Protecting the Firelight","evergreen":true,"multitable":false,"minLevel":5,"maxLevel":8,"scenarioType": "Scenario" },
+    {"season":5,"scenario":9,"subscenario":0,"name":"Equal Exchanges - Skymetal Horde","evergreen":false,"multitable":false,"minLevel":5,"maxLevel":8,"scenarioType": "Scenario" },
+    {"season":5,"scenario":10,"subscenario":0,"name":"The Crocodile's Smile","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":5,"scenario":11,"subscenario":0,"name":"Equal Exchanges - The Hidden Current","evergreen":false,"multitable":false,"minLevel":7,"maxLevel":10,"scenarioType": "Scenario" },
+    {"season":5,"scenario":12,"subscenario":0,"name":"Mischief in the Maze","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":5,"scenario":13,"subscenario":0,"name":"Thick as Thieves","evergreen":false,"multitable":false,"minLevel":5,"maxLevel":8,"scenarioType": "Scenario" },
+    {"season":5,"scenario":14,"subscenario":0,"name":"Poisonous Council","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":5,"scenario":15,"subscenario":0,"name":"Cleansing The Flame","evergreen":false,"multitable":false,"minLevel":5,"maxLevel":8,"scenarioType": "Scenario" },
+    {"season":5,"scenario":16,"subscenario":0,"name":"A Lie Told to Strangers","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":5,"scenario":17,"subscenario":0,"name":"Stranded on Yesterday's Tide","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":5,"scenario":18,"subscenario":0,"name":"Equal Exchanges - Tapestry of the Mind","evergreen":false,"multitable":false,"minLevel":9,"maxLevel":12,"scenarioType": "Scenario" },
+    {"season":5,"scenario":19,"subscenario":0,"name":"Demonic Afterparty","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":5,"scenario":20,"subscenario":0,"name":"The Rakshasa's Court","evergreen":false,"multitable":false,"minLevel":7,"maxLevel":10,"scenarioType": "Scenario" }
+]

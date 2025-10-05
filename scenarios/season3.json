@@ -1,0 +1,22 @@
+[
+    {"season":3,"scenario":1,"subscenario":0,"name":"Year of Shattered Sanctuaries","evergreen":true,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":3,"scenario":2,"subscenario":0,"name":"The East Hill Haunting","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":3,"scenario":3,"subscenario":0,"name":"Echoes of Desperation","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":3,"scenario":4,"subscenario":0,"name":"The Devil-Wrought Disappearances","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":3,"scenario":5,"subscenario":0,"name":"Inheritors Rite","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":3,"scenario":6,"subscenario":0,"name":"Struck by Shadows","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":3,"scenario":7,"subscenario":0,"name":"The Locked Lodge","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":3,"scenario":8,"subscenario":0,"name":"Foundations Price","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":3,"scenario":9,"subscenario":0,"name":"The Secluded Siege","evergreen":false,"multitable":false,"minLevel":5,"maxLevel":8,"scenarioType": "Scenario" },
+    {"season":3,"scenario":10,"subscenario":0,"name":"Delve the Pallid Depths","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":3,"scenario":11,"subscenario":0,"name":"No Time For Treason","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":3,"scenario":12,"subscenario":0,"name":"Fury's Toll","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":3,"scenario":13,"subscenario":0,"name":"Guardian's Covenant","evergreen":true,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":3,"scenario":14,"subscenario":0,"name":"The Tomb Between Worlds","evergreen":false,"multitable":false,"minLevel":5,"maxLevel":8,"scenarioType": "Scenario" },
+    {"season":3,"scenario":15,"subscenario":0,"name":"Cavern of the Sundered Song","evergreen":false,"multitable":false,"minLevel":9,"maxLevel":12,"scenarioType": "Scenario" },
+    {"season":3,"scenario":16,"subscenario":0,"name":"Escape from Oppara","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":3,"scenario":17,"subscenario":0,"name":"Dreams of a Dustbound Isle","evergreen":false,"multitable":false,"minLevel":5,"maxLevel":8,"scenarioType": "Scenario" },
+    {"season":3,"scenario":18,"subscenario":0,"name":"Dacilane Academys Delightful Disaster","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":3,"scenario":19,"subscenario":0,"name":"Mean Streets of Shadow Absalom","evergreen":false,"multitable":false,"minLevel":7,"maxLevel":10,"scenarioType": "Scenario" },
+    {"season":3,"scenario":98,"subscenario":0,"name":"Expedition into Pallid Peril","evergreen":false,"multitable":true,"minLevel":1,"maxLevel":6,"scenarioType": "Scenario" }
+]

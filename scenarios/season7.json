@@ -1,0 +1,6 @@
+[
+    {"season":7,"scenario":1,"subscenario":0,"name":"Enough is enough","evergreen":true,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":7,"scenario":2,"subscenario":0,"name":"Shipyard Sabotage","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":7,"scenario":3,"subscenario":0,"name":"A foot in the door","evergreen":false,"multitable":false,"minLevel":5,"maxLevel":8,"scenarioType": "Scenario" },
+    {"season":7,"scenario":4,"subscenario":0,"name":"Sulfuric Negotiations","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" }
+]

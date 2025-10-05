@@ -1,0 +1,78 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./mydb.db"
+}
+
+enum ScenarioType {
+  Bounty
+  OneShot
+  Scenario
+  Multitable
+  Module
+  AdventurePath
+  Quest
+  FreeRPGDay
+  Other
+}
+
+model Scenario {
+  id  Int   @id @default(autoincrement())
+  season  Int
+  scenario Int
+  subscenario Int @default(0)
+  name  String
+  evergreen Boolean @default(false)
+  multitable Boolean @default(false)
+  minLevel Int
+  maxLevel Int
+  scenarioType ScenarioType
+  sessions Session[]
+
+  @@unique ([season,scenario,subscenario])
+}
+
+model Player {
+  id Int @id @default (autoincrement())
+  number Int @unique
+  playerName String?
+  characters Character[]
+  gmSessions Session[]
+}
+
+model Character {
+  id Int @id @default (autoincrement())
+  playerId Int
+  player Player @relation (fields: [playerId], references: [id])
+  number Int
+  name String?
+  signups Signup[]
+
+  @@unique ([playerId, number])
+}
+
+model Session {
+  id Int @id @default (autoincrement())
+  date DateTime
+  scenarioId Int
+  scenario Scenario @relation (fields: [scenarioId], references: [id])
+  gmId Int
+  gm Player @relation (fields: [gmId], references: [id])
+  signups Signup[]
+
+  @@unique ([scenarioId, date])
+}
+
+model Signup {
+  id Int @id @default (autoincrement())
+  sessionId Int
+  session Session @relation (fields: [sessionId], references: [id])
+  characterId Int
+  character Character @relation (fields: [characterId], references: [id])
+}

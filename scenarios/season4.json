@@ -1,0 +1,20 @@
+[
+    {"season":4,"scenario":1,"subscenario":0,"name":"Year of Boundless Wonder","evergreen":true,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":4,"scenario":2,"subscenario":0,"name":"Return to the Grave","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":4,"scenario":3,"subscenario":0,"name":"Linnorms Legacy","evergreen":false,"multitable":false,"minLevel":5,"maxLevel":8,"scenarioType": "Scenario" },
+    {"season":4,"scenario":4,"subscenario":0,"name":"To seek the heart of calamity","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":4,"scenario":5,"subscenario":0,"name":"The arclord who never was","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":4,"scenario":6,"subscenario":0,"name":"Signal from the Electric Library","evergreen":false,"multitable":false,"minLevel":5,"maxLevel":8,"scenarioType": "Scenario" },
+    {"season":4,"scenario":7,"subscenario":0,"name":"A most wonderous exchange","evergreen":true,"multitable":false,"minLevel":5,"maxLevel":8,"scenarioType": "Scenario" },
+    {"season":4,"scenario":8,"subscenario":0,"name":"Battle for Stars Fate","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":4,"scenario":9,"subscenario":0,"name":"Killer in the Golden Mask","evergreen":false,"multitable":false,"minLevel":5,"maxLevel":8,"scenarioType": "Scenario" },
+    {"season":4,"scenario":10,"subscenario":0,"name":"Arclords Abode","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":4,"scenario":11,"subscenario":0,"name":"Prisoners of the Electric Castle","evergreen":false,"multitable":false,"minLevel":7,"maxLevel":10,"scenarioType": "Scenario" },
+    {"season":4,"scenario":12,"subscenario":0,"name":"Negotiations for the Star Gun","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":4,"scenario":13,"subscenario":0,"name":"Within The Prairies","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":4,"scenario":14,"subscenario":0,"name":"Shattering Golden Chains","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":4,"scenario":15,"subscenario":0,"name":"In Glorious Battle","evergreen":false,"multitable":false,"minLevel":9,"maxLevel":12,"scenarioType": "Scenario" },
+    {"season":4,"scenario":16,"subscenario":0,"name":"Dacilane Academy's First Great Prank War","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":4,"scenario":17,"subscenario":0,"name":"Trapping the Hag's Claw","evergreen":false,"multitable":false,"minLevel":7,"maxLevel":10,"scenarioType": "Scenario" },
+    {"season":4,"scenario":99,"subscenario":0,"name":"Blessings of the forest","evergreen":false,"multitable":true,"minLevel":1,"maxLevel":8,"scenarioType": "Scenario" }
+]

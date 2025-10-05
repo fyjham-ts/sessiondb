@@ -1,0 +1,22 @@
+{
+  "name": "pftrack",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "import": "node import.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prisma": "^6.16.3"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.16.3",
+    "date-fns": "^4.1.0",
+    "enquirer": "^2.4.1",
+    "enquirer-prompt-editor": "^2.0.1"
+  }
+}

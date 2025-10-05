@@ -1,0 +1,23 @@
+[
+    {"season":6,"scenario":0,"subscenario":0,"name":"Salt of the Ocean","evergreen":false,"multitable":true,"minLevel":1,"maxLevel":8,"scenarioType": "Scenario" },
+    {"season":6,"scenario":1,"subscenario":0,"name":"Year of Immortal Influence","evergreen":true,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":6,"scenario":2,"subscenario":0,"name":"Rain Falls on the Mountain of Sea and Sky","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":6,"scenario":3,"subscenario":0,"name":"Godsrain in a Godless Land","evergreen":false,"multitable":false,"minLevel":5,"maxLevel":8,"scenarioType": "Scenario" },
+    {"season":6,"scenario":4,"subscenario":0,"name":"An Enkindled Carnival","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":6,"scenario":5,"subscenario":0,"name":"Silver Bark, Golden Blades","evergreen":true,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":6,"scenario":6,"subscenario":0,"name":"Rotten Apples","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":6,"scenario":7,"subscenario":0,"name":"A god falls where magic fails","evergreen":false,"multitable":false,"minLevel":7,"maxLevel":10,"scenarioType": "Scenario" },
+    {"season":6,"scenario":8,"subscenario":0,"name":"Upon wheels and rime","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":6,"scenario":9,"subscenario":0,"name":"The power of legends","evergreen":false,"multitable":false,"minLevel":9,"maxLevel":12,"scenarioType": "Scenario" },
+    {"season":6,"scenario":10,"subscenario":0,"name":"Once in whispers","evergreen":false,"multitable":false,"minLevel":5,"maxLevel":8,"scenarioType": "Scenario" },
+    {"season":6,"scenario":11,"subscenario":0,"name":"The godsrain and the dragon","evergreen":false,"multitable":false,"minLevel":7,"maxLevel":10,"scenarioType": "Scenario" },
+    {"season":6,"scenario":12,"subscenario":0,"name":"The burning of greensteeples","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":6,"scenario":13,"subscenario":0,"name":"All that glitters","evergreen":false,"multitable":false,"minLevel":1,"maxLevel":4,"scenarioType": "Scenario" },
+    {"season":6,"scenario":14,"subscenario":0,"name":"Twice in Steel","evergreen":false,"multitable":false,"minLevel":7,"maxLevel":10,"scenarioType": "Scenario" },
+    {"season":6,"scenario":15,"subscenario":0,"name":"Lost and Forgotten","evergreen":false,"multitable":false,"minLevel":5,"maxLevel":8,"scenarioType": "Scenario" },
+    {"season":6,"scenario":16,"subscenario":0,"name":"The Heart of the City","evergreen":false,"multitable":false,"minLevel":5,"maxLevel":8,"scenarioType": "Scenario" },
+    {"season":6,"scenario":17,"subscenario":0,"name":"The Devil in the Details","evergreen":false,"multitable":false,"minLevel":7,"maxLevel":10,"scenarioType": "Scenario" },
+    {"season":6,"scenario":18,"subscenario":0,"name":"Symposium on a Fallen God","evergreen":false,"multitable":false,"minLevel":3,"maxLevel":6,"scenarioType": "Scenario" },
+    {"season":6,"scenario":19,"subscenario":0,"name":"What Walks Again","evergreen":false,"multitable":false,"minLevel":11,"maxLevel":14,"scenarioType": "Scenario" },
+    {"season":6,"scenario":20,"subscenario":0,"name":"The Overthrow of Ambition","evergreen":false,"multitable":false,"minLevel":9,"maxLevel":12,"scenarioType": "Scenario" }
+]
